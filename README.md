@@ -28,7 +28,7 @@ cd loginTemplate-NodeJS
 ```sh
 npm install
 ```
-**Note :** *Please change the MongoURI to your own URL like mongodb://127.0.0.1:27017/UsersDB before starting*
+**Note :** *Please change the MongoURI to your own URL like **mongodb://127.0.0.1:27017/UsersDB** before proceeding further*
 
 *Running the Application*
 
